@@ -1,0 +1,15 @@
+{
+  "project_name": "TestProjetBase",
+  "latest_version": "1.0.1",
+  "release_date": "2023-10-27",
+  "urls": {
+    "windows": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/v1.0.1/TestProjet_Setup.exe",
+    "linux_deb": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/v1.0.1/TestProjet_Linux.deb",
+    "linux_tar": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/v1.0.1/TestProjet_Linux.tar.gz"
+  },
+  "release_notes": [
+    "Mise en place du système de mise à jour",
+    "Support du dépôt centralisé",
+    "Amélioration de la détection d'OS"
+  ]
+}
