@@ -5,7 +5,7 @@
   "urls": {
     "windows_setup": "NoLink",
     "windows_portable": "NoLink",
-    "linux_deb": "NoLink",
+    "linux_deb": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/test-projet-base-v1.0.1/test-projet-v1.0.tar.xz",
     "linux_tar": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/test-projet-base-v1.0.1/test-projet-v1.0.tar.xz"
   },
   "release_notes": [
