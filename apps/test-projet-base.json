@@ -4,9 +4,9 @@
   "release_date": "2023-10-27",
   "urls": {
     "windows_setup": "NoLink",
-    "windows_portable": "NoLink",
-    "linux_deb": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/test-projet-base-v1.0.1/test-projet-v1.0.tar.xz",
-    "linux_tar": "NoLink"
+    "windows_portable": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/test-projet-base-v1.0.1/test-projet-v1.0.tar.xz",
+    "linux_deb": "NoLink",
+    "linux_tar": "https://github.com/DIDCGE64/UpdateHubCGE/releases/download/test-projet-base-v1.0.1/test-projet-v1.0.tar.xz"
   },
   "release_notes": [
     "Mise en place du système de mise à jour",
